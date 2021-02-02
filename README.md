@@ -16,9 +16,6 @@ Using Bootstrap, I installed a navbar with links to other html pages (i.e. portf
 ## Link to Deployed Page:
 https://amberchiodini.github.io/responsive-portfolio/
 
-## Future Improvements:
-As you may have noticed, there is a lot of white space in my portfolio, so I would like to add some progress bars and/or a list of programming languages and frameworks that I acquired throughout the course on my next update. 
-
 ## References: 
 * [W3Schools](https://www.w3schools.com/)
 * [Stack Overflow](https://stackoverflow.com/)
