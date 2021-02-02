@@ -1,0 +1,39 @@
+.navbar { 
+    background-color: black;
+    color: white;
+}
+
+.nav-link, .navbar-brand { 
+    color: white; 
+}
+
+.nav-link { 
+    margin-right: 0;
+}
+
+.nav-link:hover { 
+    background: white; 
+    color: gray; 
+}
+
+.navbar-collapse { 
+    justify-content: flex-end;
+}
+
+.navbar-toggler {  
+    background: white;
+}
+
+.img-thumbnail {
+    margin: 10%;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
