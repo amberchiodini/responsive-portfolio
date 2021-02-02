@@ -37,3 +37,7 @@
     color: white;
     text-align: center;
 }
+
+.navbar-collapse.in {
+    display: block !important;
+}
