@@ -28,16 +28,16 @@
     margin: 10%;
 }
 
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: black;
-    color: white;
-    text-align: center;
-}
-
 .navbar-collapse.in {
     display: block !important;
+}
+
+.footer-margin {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 3.5rem;   
+    background-color: black;  
+    color: white;
+    text-align: center;
 }
